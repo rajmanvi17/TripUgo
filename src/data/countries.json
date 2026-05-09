@@ -1,0 +1,245 @@
+{
+  "japan": {
+    "name": "Japan", "flag": "🇯🇵", "capital": "Tokyo", "population": "125.7M",
+    "language": "Japanese", "currency": "JPY", "currencySymbol": "¥",
+    "timezone": "Asia/Tokyo", "safetyIndex": 9.1, "costLevel": "Medium-High",
+    "defaultCity": "Tokyo",
+    "phrases": [
+      { "en": "Hello", "local": "こんにちは", "pron": "Konnichiwa" },
+      { "en": "Thank you", "local": "ありがとう", "pron": "Arigatou" },
+      { "en": "Excuse me", "local": "すみません", "pron": "Sumimasen" },
+      { "en": "Where is...?", "local": "...はどこですか?", "pron": "...wa doko desu ka?" },
+      { "en": "How much?", "local": "いくらですか?", "pron": "Ikura desu ka?" }
+    ],
+  "tips": [
+  { "type": "do", "text": "Remove shoes before entering homes and many restaurants" },
+  { "type": "do", "text": "Bow when greeting — deeper bow = more respect" },
+  { "type": "do", "text": "Carry cash — many places don't accept cards" },
+  { "type": "dont", "text": "Don't tip — it can be considered rude" },
+  { "type": "dont", "text": "Avoid eating or drinking while walking in public" },
+  { "type": "info", "text": "IC cards (Suica/Pasmo) work on all transit in major cities" },
+
+  { "type": "do", "text": "Speak quietly on public transport — phone calls are discouraged" },
+  { "type": "do", "text": "Queue properly for trains, elevators, and stores" },
+  { "type": "dont", "text": "Do not stick chopsticks upright into rice — it resembles funeral rituals" },
+  { "type": "info", "text": "Convenience stores in Japan offer surprisingly high-quality meals and services" },
+  { "type": "dont", "text": "Avoid blowing your nose loudly in public spaces" },
+  { "type": "do", "text": "Separate trash carefully — Japan follows strict recycling rules" }
+],
+    "emergency": { "police": "110", "ambulance": "119", "fire": "119", "tourist": "0570-783-483" },
+    "embassy": { "us": { "name": "US Embassy Tokyo", "address": "1-10-5 Akasaka, Minato-ku", "phone": "+81-3-3224-5000" }, "uk": { "name": "British Embassy Tokyo", "address": "1 Ichiban-cho, Chiyoda-ku", "phone": "+81-3-5211-1100" } },
+    "hospitals": [
+      { "name": "St. Luke's International Hospital", "distance": "0.8 km", "phone": "+81-3-5550-7166" },
+      { "name": "Tokyo Medical Center", "distance": "2.1 km", "phone": "+81-3-3411-0111" }
+    ],
+    "food": [
+      { "emoji": "🍣", "name": "Sushi", "desc": "Fresh raw fish over seasoned rice. Best at Tsukiji market." },
+      { "emoji": "🍜", "name": "Ramen", "desc": "Rich broth noodle soup in countless regional styles." },
+      { "emoji": "🍱", "name": "Bento", "desc": "A perfectly packed meal box — convenience store staple." },
+      { "emoji": "🍡", "name": "Dango", "desc": "Sweet rice dumplings on skewers — perfect street snack." },
+      { "emoji": "🥟", "name": "Gyoza", "desc": "Pan-fried dumplings — crispy bottom, juicy filling." }
+    ],
+    "gems": [
+      { "name": "Yanaka Village", "desc": "Old Tokyo neighborhood — untouched by modernization" },
+      { "name": "Odaiba at Night", "desc": "Rainbow Bridge lit up — stunning waterfront views" },
+      { "name": "Kagurazaka", "desc": "French-Japanese fusion neighborhood with cobbled lanes" }
+    ],
+    "culture": ["Kabuki Theatre", "Tea Ceremony", "Ikebana (Floral Art)", "Sumo Wrestling", "Hanami", "Anime & Manga"],
+    "places": [
+      { "id": "p1", "name": "Senso-ji Temple", "area": "Asakusa", "distance": "2.4 km", "rating": 5, "type": "attraction", "emoji": "⛩" },
+      { "id": "p2", "name": "Tokyo Tower", "area": "Minato", "distance": "4.1 km", "rating": 4, "type": "attraction", "emoji": "🗼" },
+      { "id": "p3", "name": "Shinjuku Gyoen", "area": "Shinjuku", "distance": "3.8 km", "rating": 5, "type": "attraction", "emoji": "🌸" },
+      { "id": "p4", "name": "Akihabara District", "area": "Chiyoda", "distance": "1.9 km", "rating": 4, "type": "attraction", "emoji": "🎮" },
+      { "id": "p5", "name": "Ichiran Ramen", "area": "Shibuya", "distance": "1.2 km", "rating": 5, "type": "restaurant", "emoji": "🍜" },
+      { "id": "p6", "name": "Park Hotel Tokyo", "area": "Shiodome", "distance": "3.5 km", "rating": 4, "type": "hotel", "emoji": "🏨" }
+    ],
+    "defaultItinerary": [
+      { "day": 1, "label": "Arrival & Culture", "items": [{ "id": "i1", "text": "Senso-ji Temple", "emoji": "⛩" }, { "id": "i2", "text": "Nakamise Shopping Street", "emoji": "🛍" }, { "id": "i3", "text": "Ramen dinner in Asakusa", "emoji": "🍜" }] },
+      { "day": 2, "label": "Modern Tokyo", "items": [{ "id": "i4", "text": "Tokyo Tower (morning)", "emoji": "🗼" }, { "id": "i5", "text": "Akihabara exploration", "emoji": "🎮" }, { "id": "i6", "text": "Shibuya crossing at night", "emoji": "🌃" }] },
+      { "day": 3, "label": "Nature & Relax", "items": [{ "id": "i7", "text": "Shinjuku Gyoen gardens", "emoji": "🌸" }, { "id": "i8", "text": "Day trip to Mt. Fuji area", "emoji": "🏔" }, { "id": "i9", "text": "Onsen experience", "emoji": "♨️" }] }
+    ],
+    "budgetBreakdown": { "stay": 30, "food": 20, "transport": 15, "activities": 10, "shopping": 15, "misc": 10 },
+    "bestSeason": "Mar–May, Sep–Nov",
+    "visaInfo": "Visa required for most nationalities"
+  },
+  "france": {
+    "name": "France", "flag": "🇫🇷", "capital": "Paris", "population": "67.4M",
+    "language": "French", "currency": "EUR", "currencySymbol": "€",
+    "timezone": "Europe/Paris", "safetyIndex": 7.4, "costLevel": "High",
+    "defaultCity": "Paris",
+"phrases": [
+  { "en": "Hello", "local": "Bonjour", "pron": "Bon-zhoor" },
+  { "en": "Thank you", "local": "Merci", "pron": "Mehr-see" },
+  { "en": "Excuse me", "local": "Excusez-moi", "pron": "Ex-kew-zay-mwah" },
+  { "en": "Where is...?", "local": "Où est...?", "pron": "Oo eh...?" }
+],
+  "tips": [
+  { "type": "do", "text": "Greet with Bonjour when entering any shop or restaurant" },
+  { "type": "do", "text": "Tip 5-10% at sit-down restaurants" },
+  { "type": "dont", "text": "Don't be loud in public spaces" },
+  { "type": "dont", "text": "Don't skip learning a few French words — locals appreciate it" },
+  { "type": "info", "text": "Metro is cheapest and fastest way around Paris" },
+  { "type": "do", "text": "Keep your metro ticket until you exit the station" },
+  { "type": "dont", "text": "Avoid rushing meals — dining is treated as a relaxed experience" },
+  { "type": "info", "text": "Most museums offer discounted or free entry on select days" },
+  { "type": "do", "text": "Carry a reusable shopping bag — many stores charge for bags" }
+],
+    "emergency": { "police": "17", "ambulance": "15", "fire": "18", "tourist": "3975" },
+    "embassy": { "us": { "name": "US Embassy Paris", "address": "2 Avenue Gabriel, Paris", "phone": "+33-1-43-12-22-22" }, "uk": { "name": "British Embassy Paris", "address": "35 Rue du Faubourg Saint-Honoré", "phone": "+33-1-44-51-31-00" } },
+"hospitals": [
+  { "name": "Hôpital Lariboisière", "distance": "1.2 km", "phone": "+33-1-49-95-65-65" },
+  { "name": "American Hospital of Paris", "distance": "3.5 km", "phone": "+33-1-46-41-25-25" },
+  { "name": "Pitié-Salpêtrière Hospital", "distance": "4.1 km", "phone": "+33-1-42-16-00-00" }
+],
+  
+"food": [
+  { "emoji": "🥐", "name": "Croissant", "desc": "Buttery, flaky pastry — best fresh from a boulangerie at dawn." },
+  { "emoji": "🧅", "name": "French Onion Soup", "desc": "Rich caramelized onion broth topped with melted Gruyère." },
+  { "emoji": "🐌", "name": "Escargots", "desc": "Snails baked in garlic butter — a classic French delicacy." },
+  { "emoji": "🍷", "name": "Bordeaux Wine", "desc": "France's most celebrated red wine region — a must-try." },
+  { "emoji": "🧀", "name": "Cheese Platter", "desc": "Over 400 types of French cheese — Camembert, Brie, Roquefort." },
+  { "emoji": "🥖", "name": "Baguette", "desc": "Fresh crusty bread that’s part of daily French life." },
+  { "emoji": "🍮", "name": "Crème Brûlée", "desc": "Creamy vanilla custard with a crisp caramelized sugar top." },
+  { "emoji": "🥞", "name": "Crêpes", "desc": "Thin pancakes served sweet or savory from Paris street stalls." }
+],
+    "gems": [
+      { "name": "Montmartre at Sunrise", "desc": "Watch Paris wake up from the steps of Sacré-Cœur" },
+      { "name": "Canal Saint-Martin", "desc": "Trendy neighborhood with iron footbridges and cool cafés" },
+      { "name": "Sainte-Chapelle", "desc": "Stunning Gothic chapel with breathtaking stained glass" }
+    ],
+    "culture": ["Café Culture", "Fashion Week", "Bastille Day", "Fine Dining", "Impressionist Art", "Mime & Street Art"],
+    "places": [
+      { "id": "p1", "name": "Eiffel Tower", "area": "Champ de Mars", "distance": "1.8 km", "rating": 5, "type": "attraction", "emoji": "🗼" },
+      { "id": "p2", "name": "Louvre Museum", "area": "1st Arr.", "distance": "2.3 km", "rating": 5, "type": "attraction", "emoji": "🏛" },
+      { "id": "p3", "name": "Notre-Dame Cathedral", "area": "Île de la Cité", "distance": "3.1 km", "rating": 5, "type": "attraction", "emoji": "⛪" },
+      { "id": "p4", "name": "Le Jules Verne", "area": "Eiffel Tower", "distance": "2.0 km", "rating": 5, "type": "restaurant", "emoji": "🍽" },
+      { "id": "p5", "name": "Café de Flore", "area": "Saint-Germain", "distance": "1.5 km", "rating": 4, "type": "restaurant", "emoji": "☕" },
+      { "id": "p6", "name": "Hôtel Plaza Athénée", "area": "8th Arr.", "distance": "2.8 km", "rating": 5, "type": "hotel", "emoji": "🏨" }
+    ],
+    "defaultItinerary": [
+      { "day": 1, "label": "Iconic Paris", "items": [{ "id": "i1", "text": "Eiffel Tower visit", "emoji": "🗼" }, { "id": "i2", "text": "Seine River cruise", "emoji": "⛵" }, { "id": "i3", "text": "French dinner in Montparnasse", "emoji": "🍷" }] },
+      { "day": 2, "label": "Art & Culture", "items": [{ "id": "i4", "text": "Louvre Museum morning", "emoji": "🏛" }, { "id": "i5", "text": "Notre-Dame exterior", "emoji": "⛪" }, { "id": "i6", "text": "Montmartre evening stroll", "emoji": "🎨" }] },
+      { "day": 3, "label": "Neighbourhood Gems", "items": [{ "id": "i7", "text": "Canal Saint-Martin", "emoji": "🌊" }, { "id": "i8", "text": "Le Marais food tour", "emoji": "🥐" }, { "id": "i9", "text": "Sainte-Chapelle", "emoji": "💎" }] }
+    ],
+    "budgetBreakdown": { "stay": 35, "food": 25, "transport": 12, "activities": 12, "shopping": 10, "misc": 6 },
+    "bestSeason": "Apr–Jun, Sep–Oct",
+    "visaInfo": "Schengen visa — many nationalities visa-free"
+  },
+  "india": {
+    "name": "India", "flag": "🇮🇳", "capital": "New Delhi", "population": "1.42B",
+    "language": "Hindi, English", "currency": "INR", "currencySymbol": "₹",
+    "timezone": "Asia/Kolkata", "safetyIndex": 6.2, "costLevel": "Low",
+    "defaultCity": "Delhi",
+    "phrases": [
+      { "en": "Hello", "local": "नमस्ते", "pron": "Namaste" },
+      { "en": "Thank you", "local": "धन्यवाद", "pron": "Dhanyavaad" },
+      { "en": "Excuse me", "local": "माफ़ करना", "pron": "Maaf karna" },
+      { "en": "Where is...?", "local": "...कहाँ है?", "pron": "...kahan hai?" },
+      { "en": "How much?", "local": "कितने का है?", "pron": "Kitne ka hai?" }
+    ],
+  "tips": [
+  { "type": "do", "text": "Dress modestly at religious sites — cover shoulders and knees" },
+  { "type": "do", "text": "Use right hand when giving or receiving items" },
+  { "type": "dont", "text": "Don't point feet at people or sacred objects" },
+  { "type": "dont", "text": "Avoid street food from unhygienic stalls" },
+  { "type": "info", "text": "Bargaining is expected at local markets — start at 50% of asking price" },
+  { "type": "do", "text": "Carry a reusable water bottle to stay hydrated during travel" },
+  { "type": "info", "text": "Keep small cash notes handy for local transport and markets" },
+  { "type": "dont", "text": "Avoid discussing sensitive political or religious topics publicly" },
+  { "type": "do", "text": "Learn a few local greetings to connect better with locals" },
+  { "type": "info", "text": "Public transport can get crowded during peak hours" },
+  { "type": "dont", "text": "Do not photograph people or temples without permission" },
+  { "type": "do", "text": "Keep digital and physical copies of important documents while traveling" }
+],
+    "emergency": { "police": "100", "ambulance": "102", "fire": "101", "tourist": "1800-11-1363" },
+    "embassy": { "us": { "name": "US Embassy New Delhi", "address": "Shantipath, Chanakyapuri", "phone": "+91-11-2419-8000" }, "uk": { "name": "British High Commission", "address": "Shantipath, Chanakyapuri", "phone": "+91-11-2419-2100" } },
+    "hospitals": [
+      { "name": "AIIMS New Delhi", "distance": "2.5 km", "phone": "+91-11-2659-3308" },
+      { "name": "Apollo Hospital Delhi", "distance": "3.8 km", "phone": "+91-11-2692-5858" }
+    ],
+    "food": [
+      { "emoji": "🍛", "name": "Butter Chicken", "desc": "Creamy tomato-based curry — India's most beloved dish worldwide." },
+      { "emoji": "🫓", "name": "Biryani", "desc": "Aromatic spiced rice with meat or vegetables, slow-cooked to perfection." },
+      { "emoji": "🥘", "name": "Dal Makhani", "desc": "Slow-cooked black lentils in butter and cream — comfort food." },
+      { "emoji": "🥙", "name": "Chaat", "desc": "Tangy street food snacks — samosa chaat, pani puri are favourites." },
+      { "emoji": "🍮", "name": "Gulab Jamun", "desc": "Soft milk dumplings soaked in rose-scented sugar syrup." }
+    ],
+    "gems": [
+      { "name": "Varanasi Ghats at Sunrise", "desc": "Ancient city on the Ganges — a spiritual experience unlike any other" },
+      { "name": "Hampi Ruins", "desc": "UNESCO-listed boulder landscape and ancient Vijayanagara Empire ruins" },
+      { "name": "Spiti Valley", "desc": "Remote Himalayan desert valley — breathtakingly raw and beautiful" }
+    ],
+    "culture": ["Diwali Festival", "Classical Dance (Bharatanatyam)", "Holi Festival", "Yoga & Meditation", "Bollywood", "Block Printing"],
+    "places": [
+      { "id": "p1", "name": "Taj Mahal", "area": "Agra", "distance": "200 km", "rating": 5, "type": "attraction", "emoji": "🕌" },
+      { "id": "p2", "name": "Red Fort", "area": "Old Delhi", "distance": "8 km", "rating": 4, "type": "attraction", "emoji": "🏯" },
+      { "id": "p3", "name": "Qutub Minar", "area": "South Delhi", "distance": "14 km", "rating": 4, "type": "attraction", "emoji": "🗿" },
+      { "id": "p4", "name": "Bukhara Restaurant", "area": "ITC Maurya", "distance": "5 km", "rating": 5, "type": "restaurant", "emoji": "🍛" },
+      { "id": "p5", "name": "Paranthe Wali Gali", "area": "Old Delhi", "distance": "7 km", "rating": 4, "type": "restaurant", "emoji": "🥘" },
+      { "id": "p6", "name": "The Leela Palace", "area": "Chanakyapuri", "distance": "6 km", "rating": 5, "type": "hotel", "emoji": "🏨" }
+    ],
+    "defaultItinerary": [
+      { "day": 1, "label": "Old & New Delhi", "items": [{ "id": "i1", "text": "Red Fort & Chandni Chowk", "emoji": "🏯" }, { "id": "i2", "text": "Jama Masjid visit", "emoji": "🕌" }, { "id": "i3", "text": "Street food tour", "emoji": "🥘" }] },
+      { "day": 2, "label": "Taj Mahal Day Trip", "items": [{ "id": "i4", "text": "Sunrise at Taj Mahal", "emoji": "🌅" }, { "id": "i5", "text": "Agra Fort", "emoji": "🏯" }, { "id": "i6", "text": "Back to Delhi for dinner", "emoji": "🍛" }] },
+      { "day": 3, "label": "Culture & Markets", "items": [{ "id": "i7", "text": "Qutub Minar complex", "emoji": "🗿" }, { "id": "i8", "text": "Dilli Haat crafts market", "emoji": "🛍" }, { "id": "i9", "text": "Connaught Place evening", "emoji": "✨" }] }
+    ],
+    "budgetBreakdown": { "stay": 25, "food": 15, "transport": 10, "activities": 10, "shopping": 25, "misc": 15 },
+    "bestSeason": "Oct–Feb",
+    "visaInfo": "e-Visa available — apply online before travel"
+  },
+  "usa": {
+    "name": "United States", "flag": "🇺🇸", "capital": "Washington D.C.", "population": "335M",
+    "language": "English", "currency": "USD", "currencySymbol": "$",
+    "timezone": "America/New_York", "safetyIndex": 7.8, "costLevel": "High",
+    "defaultCity": "New York",
+    "phrases": [
+      { "en": "Hello", "local": "Hello!", "pron": "heh-LOH" },
+      { "en": "Thank you", "local": "Thank you!", "pron": "THANK yoo" },
+      { "en": "Excuse me", "local": "Excuse me", "pron": "ex-KYOOZ mee" },
+      { "en": "Where is...?", "local": "Where is...?", "pron": "WAIR iz...?" },
+      { "en": "How much?", "local": "How much is this?", "pron": "how MUTCH iz this?" }
+    ],
+    "tips": [
+      { "type": "do", "text": "Tip 15-20% at restaurants — it's expected, not optional" },
+      { "type": "do", "text": "Tax is added at checkout — not shown on price tags" },
+      { "type": "dont", "text": "Don't jaywalk in major cities — police do ticket" },
+      { "type": "dont", "text": "Don't drink in public unless at a licensed outdoor venue" },
+      { "type": "info", "text": "Uber/Lyft is often cheaper and easier than taxis in cities" }
+    ],
+    "emergency": { "police": "911", "ambulance": "911", "fire": "911", "tourist": "1-800-832-2653" },
+    "embassy": { "uk": { "name": "British Embassy Washington DC", "address": "3100 Massachusetts Ave NW", "phone": "+1-202-588-6500" }, "india": { "name": "Embassy of India Washington DC", "address": "2107 Massachusetts Ave NW", "phone": "+1-202-939-7000" } },
+    "hospitals": [
+      { "name": "NewYork-Presbyterian Hospital", "distance": "1.5 km", "phone": "+1-212-746-5454" },
+      { "name": "Mount Sinai Hospital", "distance": "2.8 km", "phone": "+1-212-241-6500" }
+    ],
+    "food": [
+      { "emoji": "🍔", "name": "Burger", "desc": "The classic American burger — tried best at a local diner." },
+      { "emoji": "🦞", "name": "Maine Lobster", "desc": "Fresh North Atlantic lobster — a New England must-have." },
+      { "emoji": "🍕", "name": "New York Pizza", "desc": "Foldable, thin-crust pizza slices — grab one on the street." },
+      { "emoji": "🌮", "name": "Tex-Mex", "desc": "Tacos, burritos, and nachos — huge portions and bold flavors." },
+      { "emoji": "🥞", "name": "Stack Pancakes", "desc": "Fluffy diner-style pancakes drowned in maple syrup." }
+    ],
+    "gems": [
+      { "name": "Dumbo, Brooklyn", "desc": "Cobblestone streets with iconic Manhattan Bridge views" },
+      { "name": "The High Line, NYC", "desc": "Elevated park on a former railway — art, gardens, and skyline" },
+      { "name": "Sedona, Arizona", "desc": "Red rock vortexes and stunning desert hikes — spiritual and scenic" }
+    ],
+    "culture": ["Jazz & Blues", "Broadway Theatre", "Thanksgiving", "Super Bowl", "Road Trips", "National Parks"],
+    "places": [
+      { "id": "p1", "name": "Statue of Liberty", "area": "Liberty Island", "distance": "8 km", "rating": 5, "type": "attraction", "emoji": "🗽" },
+      { "id": "p2", "name": "Central Park", "area": "Manhattan", "distance": "2.1 km", "rating": 5, "type": "attraction", "emoji": "🌳" },
+      { "id": "p3", "name": "Times Square", "area": "Midtown", "distance": "1.5 km", "rating": 4, "type": "attraction", "emoji": "🎭" },
+      { "id": "p4", "name": "Katz's Delicatessen", "area": "Lower East Side", "distance": "3.2 km", "rating": 4, "type": "restaurant", "emoji": "🥪" },
+      { "id": "p5", "name": "Le Bernardin", "area": "Midtown", "distance": "1.8 km", "rating": 5, "type": "restaurant", "emoji": "🍽" },
+      { "id": "p6", "name": "The Plaza Hotel", "area": "Central Park S", "distance": "2.5 km", "rating": 5, "type": "hotel", "emoji": "🏨" }
+    ],
+    "defaultItinerary": [
+      { "day": 1, "label": "Iconic New York", "items": [{ "id": "i1", "text": "Statue of Liberty & Ellis Island", "emoji": "🗽" }, { "id": "i2", "text": "Wall Street & Brooklyn Bridge", "emoji": "🌉" }, { "id": "i3", "text": "Pizza dinner in Little Italy", "emoji": "🍕" }] },
+      { "day": 2, "label": "Uptown Culture", "items": [{ "id": "i4", "text": "Central Park morning", "emoji": "🌳" }, { "id": "i5", "text": "Metropolitan Museum of Art", "emoji": "🏛" }, { "id": "i6", "text": "Times Square at night", "emoji": "🎭" }] },
+      { "day": 3, "label": "Neighbourhoods", "items": [{ "id": "i7", "text": "The High Line walk", "emoji": "🌿" }, { "id": "i8", "text": "Chelsea Market food tour", "emoji": "🥩" }, { "id": "i9", "text": "Brooklyn Dumbo sunset", "emoji": "🌆" }] }
+    ],
+    "budgetBreakdown": { "stay": 35, "food": 22, "transport": 10, "activities": 12, "shopping": 12, "misc": 9 },
+    "bestSeason": "Apr–Jun, Sep–Nov",
+    "visaInfo": "ESTA (waiver) for many nationalities — apply online"
+  }
+}

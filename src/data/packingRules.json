@@ -1,0 +1,19 @@
+{
+  "clothing": {
+    "cold": ["Heavy winter jacket", "Thermal underlayer", "Warm gloves & scarf", "Waterproof boots", "Thick socks (3-4 pairs)", "Beanie / winter hat"],
+    "mild": ["Light jacket or cardigan", "Comfortable walking shoes", "Rain jacket / compact umbrella", "3-4 T-shirts", "1 smart outfit", "Slip-on shoes (for temples)"],
+    "hot": ["Lightweight breathable shirts", "Shorts / light trousers", "Sandals & comfortable sneakers", "Swimwear", "Sunhat / cap", "Light linen clothing"]
+  },
+  "essentials": {
+    "all": ["Passport & visa documents", "Travel insurance documents", "Universal power adapter", "Phone & charger", "Portable power bank", "Copies of all important documents"],
+    "japan": ["IC card / Suica card (transit)", "Pocket WiFi or SIM card", "Japanese yen cash (many places cash-only)", "Chopstick etiquette guide"],
+    "france": ["Pocket WiFi or European SIM", "Euro cash for smaller shops", "French phrasebook", "Museum pass (if pre-booked)"],
+    "india": ["India SIM card (buy on arrival)", "Indian rupees cash", "Water purification tablets", "Mosquito repellent"],
+    "usa": ["US SIM or international plan", "USD cash for tips", "US plug adapter (Type A/B)"]
+  },
+  "health": {
+    "all": ["Basic first aid kit", "Hand sanitizer", "Personal prescription medications", "Sunscreen SPF 50+", "Motion sickness tablets", "Pain reliever / fever medicine"],
+    "hot": ["Oral rehydration salts", "Anti-diarrheal medication", "Extra sunscreen", "Insect repellent (DEET)"],
+    "cold": ["Lip balm", "Moisturizer", "Hand warmers", "Cold & flu medication"]
+  }
+}
