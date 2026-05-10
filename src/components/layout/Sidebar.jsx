@@ -90,7 +90,7 @@ export default function Sidebar({ onClose }) {
           <div className="flex items-center gap-2.5">
             <motion.div className="w-9 h-9 rounded-xl flex items-center justify-center text-base font-bold"
               style={{ background:'var(--g-cyan)', boxShadow:'0 4px 16px rgba(59,130,246,0.35)' }}
-              whileHover={{ rotate:[-4,4,0], transition:{ duration:0.4 } }}>✈</motion.div>
+              whileHover={{ rotate:[-4,4,0], transition:{ duration:0.4 } }}>⛱</motion.div>
             <div>
               <div className="font-bold text-lg text-white" style={{ letterSpacing:'-0.3px' }}>TripUgo</div>
               <div className="text-[9px] font-bold tracking-widest uppercase" style={{ color:'rgba(255,255,255,0.28)' }}>Smart Travel</div>
