@@ -396,7 +396,7 @@ export default function AuthPage() {
               marginTop: "12px",
             }}
           >
-            © 2026 TripUgo • Crafted with 🩵 by Manvi Raj
+            © 2026 TripUgo • Crafted with 🩵 by Manvi
           </div>
         </div>
       </motion.div>
