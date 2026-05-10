@@ -93,7 +93,7 @@ export default function Sidebar({ onClose }) {
               whileHover={{ rotate:[-4,4,0], transition:{ duration:0.4 } }}>⛱</motion.div>
             <div>
               <div className="font-bold text-lg text-white" style={{ letterSpacing:'-0.3px' }}>TripUgo</div>
-              <div className="text-[9px] font-bold tracking-widest uppercase" style={{ color:'rgba(255,255,255,0.28)' }}>Smart Travel</div>
+              <div className="text-[9px] font-bold tracking-widest uppercase" style={{ color:'rgba(255,255,255,0.28)' }}>Beyond Maps & Miles</div>
             </div>
           </div>
           <button onClick={onClose} className="lg:hidden w-7 h-7 rounded-lg flex items-center justify-center"
