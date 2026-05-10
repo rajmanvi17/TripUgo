@@ -106,7 +106,7 @@ TripUgo is a modern smart travel platform built to make travel planning effortle
 
 ## 💰 Budget Planner
 
-![Budget Planner](./screenshots/budget-planners.png)
+![Budget Planner](./screenshots/budget-planner.png)
 
 ---
 
