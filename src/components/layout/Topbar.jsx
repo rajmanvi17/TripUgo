@@ -28,7 +28,7 @@ export default function Topbar({ onMenuClick }) {
   const { state } = useApp()
   const { user } = useAuth()
   const country = countries[state.selectedCountry]
-  const [icon, title] = PAGE_META[pathname] || ['✈','TripUgo']
+  const [icon, title] = PAGE_META[pathname] || ['⛱','TripUgo']
   return (
     <motion.header className="flex items-center justify-between px-5 h-[52px] flex-shrink-0"
       style={{ background:'rgba(10,17,28,0.85)', backdropFilter:'blur(20px)', borderBottom:'1px solid rgba(255,255,255,0.07)', boxShadow:'0 1px 0 rgba(0,0,0,0.3)' }}
